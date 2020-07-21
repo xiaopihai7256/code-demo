@@ -404,3 +404,4 @@ public Optional<Object> wrap(Map<String, Object> map) {
 ## 参考
 - [《java8 实战》](https://book.douban.com/subject/26772632/)
 - [IBM文档：Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/)
+- [文中源码](https://github.com/xiaopihai7256/code-demo/tree/master/optional-demo)
